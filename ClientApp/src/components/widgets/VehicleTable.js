@@ -4,7 +4,7 @@ export function VehicleTable(props){
         <table class="table table-striped table-bordered">
             <thead>
                 <tr>
-                    <th scope="col">License Plate</th>
+                    <th scope="col">VRM</th>
                     <th scope="col">Colour</th>
                     <th scope="col">Make</th>
                 </tr>
