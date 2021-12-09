@@ -131,7 +131,7 @@ namespace DriveSafe.Controllers
         public string Model { get; set; } = String.Empty;
         [Name("Colour")]
         public string Colour { get; set; } = String.Empty;
-        [Name("Offense Type")]
+        [Name("Offence Type")]
         public string OffenseType { get; set; } = "SPEED";
         [Name("Speed")]
         public int Speed { get; set; } = 0;
